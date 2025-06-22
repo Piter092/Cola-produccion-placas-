@@ -1,0 +1,1 @@
+// Página principal de la cola (contenido fue definido antes)
